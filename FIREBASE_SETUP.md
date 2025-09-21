@@ -7,7 +7,7 @@ This app is ready for Firebase integration! Follow these steps to set up Firebas
 ### 1. Create Firebase Project
 1. Go to [Firebase Console](https://console.firebase.google.com/)
 2. Click "Create a project"
-3. Enter project name: `ai-trip-planner` (or your preferred name)
+3. Enter project name: `project name` (or your preferred name)
 4. Enable Google Analytics (optional)
 5. Create project
 
@@ -15,13 +15,13 @@ This app is ready for Firebase integration! Follow these steps to set up Firebas
 
 #### Android App:
 1. Click "Add app" → Android
-2. Package name: `com.example.ai_trip_planner`
+2. Package name: `com.example.package`
 3. Download `google-services.json`
 4. Place it in `android/app/` directory
 
 #### Web App:
 1. Click "Add app" → Web
-2. App nickname: `AI Trip Planner Web`
+2. App nickname: `project name`
 3. Copy the Firebase config object
 
 ### 3. Enable Authentication
