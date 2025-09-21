@@ -1,0 +1,39 @@
+# Exclude unnecessary files from Vercel deployment
+android/
+ios/
+test/
+.git/
+.gitignore
+*.iml
+*.lock
+*.log
+build/
+.dart_tool/
+.idea/
+*.apk
+*.aab
+*.ipa
+node_modules/
+*.md
+!README.md
+!SETUP_README.md
+!QUICK_START.md
+!SOLUTION_BRIEF.md
+!DIAGRAM_GPT_PROMPT.md
+agent ai adk/
+aitripplanner-docs.md
+aitripplanner-release.apk
+ai_trip_planner.iml
+README_TRAVEL_CONCIERGE.md
+start_travel_concierge_server.py
+TRAVEL_CONCIERGE_INTEGRATION.md
+test_ai_agent.py
+test_integration.py
+start_server.bat
+firebase.json
+firestore.rules
+firestore-debug.log
+fcm_logs.txt
+signing.txt
+device_screenshot_*.png
+profile and sign up page background.jpg
